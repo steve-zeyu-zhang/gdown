@@ -26,6 +26,9 @@ pip install gdown
 
 # to upgrade
 pip install --upgrade gdown
+
+export PATH="$HOME/.local/bin:$PATH"
+source ~/.bashrc
 ```
 
 
